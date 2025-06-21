@@ -1,0 +1,11 @@
+
+ Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
+ Temp :␣28.30C␣␣ Humidity :␣39.51%
+ Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
+ Temp :␣28.31C␣␣ Humidity :␣39.50%
+ Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
+ Temp :␣28.31C␣␣ Humidity :␣39.50%
+ Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
+ Temp :␣28.31C␣␣ Humidity :␣39.48%
+ Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
+ Temp :␣28.32C␣␣ Humidity :␣39.53%
