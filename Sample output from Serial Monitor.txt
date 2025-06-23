@@ -1,4 +1,4 @@
-
+######### SAMPLE OUTPUT #########
  Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
  Temp :␣28.30C␣␣ Humidity :␣39.51%
  Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
@@ -9,3 +9,211 @@
  Temp :␣28.31C␣␣ Humidity :␣39.48%
  Acceleration :␣X=0.03␣Y=-0.00␣Z=1.00
  Temp :␣28.32C␣␣ Humidity :␣39.53%
+#################################
+
+######### Output changes when sensors subjected to external light source ##########
+ Acceleration : X=0.04 Y=-0.01 Z=0.98
+ Temp :26.36C Humidity :49.85%
+ Acceleration : X=0.04 Y=-0.01 Z=1.00
+ Temp :26.38C Humidity :49.86%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :26.42C Humidity :49.72%
+ Acceleration : X=0.04 Y=-0.00 Z=1.00
+ Temp :26.48C Humidity :50.14%
+ Acceleration : X=0.04 Y=-0.01 Z=1.00
+ Temp :26.51C Humidity :50.49%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :26.52C Humidity :49.81%
+ Acceleration : X=0.04 Y=-0.01 Z=1.00
+ Temp :26.56C Humidity :49.94%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :26.64C Humidity :49.85%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :26.77C Humidity :50.11%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :26.82C Humidity :49.73%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :26.88C Humidity :49.56%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :26.92C Humidity :49.21%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.00C Humidity :48.96%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.05C Humidity :49.86%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.11C Humidity :49.47%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.15C Humidity :48.92%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.24C Humidity :48.67%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.28C Humidity :48.27%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.34C Humidity :48.07%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.40C Humidity :47.84%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.46C Humidity :47.75%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.51C Humidity :48.54%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.57C Humidity :48.95%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.62C Humidity :48.45%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.68C Humidity :47.95%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.72C Humidity :47.37%
+ Acceleration : X=0.03 Y=-0.01 Z=1.00
+ Temp :27.76C Humidity :47.18%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.82C Humidity :47.23%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.86C Humidity :47.02%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :27.90C Humidity :47.92%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :28.32C Humidity :48.35%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :28.53C Humidity :48.20%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :28.66C Humidity :47.73%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :28.77C Humidity :47.10%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :28.85C Humidity :46.52%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :28.94C Humidity :46.20%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :29.02C Humidity :45.86%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.09C Humidity :45.62%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.16C Humidity :45.53%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :29.22C Humidity :45.42%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.31C Humidity :45.38%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :29.36C Humidity :45.41%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.43C Humidity :45.28%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.49C Humidity :45.07%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.55C Humidity :44.98%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.61C Humidity :44.81%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.66C Humidity :44.54%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.72C Humidity :44.35%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.79C Humidity :44.12%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.85C Humidity :43.92%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.91C Humidity :43.87%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :29.95C Humidity :43.97%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.00C Humidity :44.02%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.07C Humidity :44.04%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.12C Humidity :44.03%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.16C Humidity :44.00%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.22C Humidity :43.92%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.27C Humidity :43.85%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.31C Humidity :43.74%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.37C Humidity :43.61%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.41C Humidity :43.45%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.47C Humidity :43.37%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.51C Humidity :43.26%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.55C Humidity :43.11%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.59C Humidity :43.00%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.63C Humidity :42.85%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.68C Humidity :42.76%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.73C Humidity :42.67%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.77C Humidity :42.60%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.81C Humidity :42.43%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.85C Humidity :42.27%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.88C Humidity :42.05%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.92C Humidity :41.91%
+ Acceleration : X=0.03 Y=-0.00 Z=1.00
+ Temp :30.53C Humidity :44.04%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.42C Humidity :43.21%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.37C Humidity :43.47%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.36C Humidity :43.47%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.37C Humidity :43.53%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.38C Humidity :43.51%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.38C Humidity :43.51%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.40C Humidity :43.55%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.42C Humidity :43.56%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.44C Humidity :43.56%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.45C Humidity :43.56%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.48C Humidity :43.48%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.49C Humidity :43.42%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.52C Humidity :43.35%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.53C Humidity :43.29%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.56C Humidity :43.23%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.59C Humidity :43.16%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.60C Humidity :43.06%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.63C Humidity :42.97%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.64C Humidity :42.90%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.67C Humidity :42.82%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.68C Humidity :42.74%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.71C Humidity :42.66%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.73C Humidity :42.58%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.75C Humidity :42.50%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.78C Humidity :42.44%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.81C Humidity :42.41%
+ Acceleration : X=0.02 Y=0.00 Z=1.00
+ Temp :30.82C Humidity :42.32%
+ Acceleration : X=0.02 Y=-0.00 Z=1.00
+ Temp :30.84C Humidity :42.27%
+#####################################################################################
