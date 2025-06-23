@@ -11,7 +11,7 @@
  Temp :␣28.32C␣␣ Humidity :␣39.53%
 #################################
 
-######### Output changes when sensors subjected to external light source ##########
+######### Output reading change sequence when sensors subjected to external light source ##########
  Acceleration : X=0.04 Y=-0.01 Z=0.98
  Temp :26.36C Humidity :49.85%
  Acceleration : X=0.04 Y=-0.01 Z=1.00
