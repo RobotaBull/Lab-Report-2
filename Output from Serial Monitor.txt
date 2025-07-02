@@ -216,4 +216,7 @@
  Temp :30.82C Humidity :42.32%
  Acceleration : X=0.02 Y=-0.00 Z=1.00
  Temp :30.84C Humidity :42.27%
+
+Above values which are output of Arduino Serial monitor are used to 
+generate "Figure 5: Temperature and Humidity change when subjected to external light source"
 #####################################################################################
